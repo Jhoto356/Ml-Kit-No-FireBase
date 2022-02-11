@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">ML Kit</string>
+
+    //Permission rationales messages
+    <string name="rmInternetP">Required internet by scan QR and code bar</string>
+    <string name="rmCameraP">Required internet by scan QR and code bar</string>
+    <string name="rmAppP">Required internet and camera by scan</string>
+
+</resources>
